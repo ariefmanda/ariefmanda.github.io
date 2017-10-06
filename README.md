@@ -1,4 +1,4 @@
-<a href="ariefmanda.github.io">Website</a> Percobaan pertama saya dengan github <br>
+<a href="https://ariefmanda.github.io">Website</a> Percobaan pertama saya dengan github <br>
 Untuk kali pertama, saya membuat website dengan sendiri.<br>
 
 <h1> Website Simple </h1>
