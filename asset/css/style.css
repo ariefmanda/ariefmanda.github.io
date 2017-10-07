@@ -1,9 +1,17 @@
 body{		
 margin: 0px;	
 background-image: url("../img/back.png");
-<<<<<<< HEAD
-background-size: 100%;}
-=======
 background-size: 100%;
 }
->>>>>>> 029e74442c20d7c2f0ea7d57eca2126100b9eb0e
+div{
+  color: white;
+  margin-left: 100;
+}
+#wellcome{
+  font-size: 80px;
+  margin-top: 200;
+}
+p,a{
+  text-decoration: none;
+  color: #C5C0C0;
+}
