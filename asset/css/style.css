@@ -3,13 +3,11 @@ margin: 0px;
 background-image: url("../img/back.png");
 background-size: 100%;
 }
-{
-  color: white;
-  margin-left: 100;
-}
 #wellcome{
   font-size: 80px;
   margin-top: 200;
+  color: white;
+  margin-left: 100;
 }
 p,a{
   text-decoration: none;
