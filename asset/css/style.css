@@ -9,7 +9,8 @@ background-size: 100%;
   color: white;
   margin-left: 100;
 }
-p,a{
+#id,p,a{
   text-decoration: none;
   color: #C5C0C0;
+  margin-left: 100;
 }
